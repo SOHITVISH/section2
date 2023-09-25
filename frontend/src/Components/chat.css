@@ -1,0 +1,20 @@
+.bubble-sent{
+    background-color: rgb(176, 28, 245);
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px; 
+    border-radius: 50px 50px 0px 50px;
+    width: fit-content;
+    margin-left: auto;
+    max-width: 70%;
+}
+
+
+.bubble-rec{
+    background-color: aliceblue;
+    padding: 15px 30px;
+    margin-bottom: 20px;
+    border-radius: 50px 50px 50px 0px;
+    
+
+}

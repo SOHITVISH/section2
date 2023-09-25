@@ -1,0 +1,12 @@
+h1{
+text-decoration: underline;
+}
+.nav-item .active{
+    border-bottom: 2px solid blueviolet;
+    color: blueviolet !important;
+    font-weight: bold;
+
+}
+.nav-item:hover{
+    background-color: brown;
+}
